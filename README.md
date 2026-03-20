@@ -5,6 +5,11 @@ Explore proven dashboard layout theories like Z-pattern, F-pattern, 60/40 split,
 Built for Designers, Product Managers, Developers, and QA teams who want to design dashboards that actually work.
 
 ---
+## 🌐 Online Demo
+
+No setup, view live on GitHub Pages:
+
+[https://vijopv83.github.io/DesignDoneRight/](https://vijopv83.github.io/DesignDoneRight/)
 
 ## 📚 Table of Contents
 
